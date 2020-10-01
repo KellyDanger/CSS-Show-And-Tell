@@ -9,4 +9,4 @@ https://www.codecademy.com/learn/paths/web-development/tracks/getting-more-advan
 
 Things I learned in my research:
 - CSS classes can be chained thusly
-## <h1> class="title cursive capitalize">This can be styled using .title and/or .cursive and/or .capitalize in my CSS file</h1>
+<h1> class="title cursive capitalize">This can be styled using .title and/or .cursive and/or .capitalize in my CSS file</h1>
