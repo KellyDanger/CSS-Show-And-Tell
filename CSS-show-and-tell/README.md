@@ -1,3 +1,6 @@
+Codecademy Positioning Lesson:
+https://www.codecademy.com/courses/learn-css/lessons/box-model-intro/exercises/box-model-intro
+
 CSS Box model resource:
 https://www.codecademy.com/learn/paths/web-development/tracks/getting-more-advanced-with-design/modules/learn-css-box-model/cheatsheet
 
